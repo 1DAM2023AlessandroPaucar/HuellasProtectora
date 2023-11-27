@@ -3,15 +3,16 @@ Desarollo para la Protectora Huellas
 ## Desarollo del ejercicio
 La protectora de animales Huellas de Ávila se ha reunido con nosotros porque quiere
 desarrollar una aplicación móvil para gestionar sus animales. Tras reunirnos con ellos
-hemos sacado las siguientes conclusiones:
+hemos sacado las siguientes conclusiones: </br>
+
 ● En la protectora existen perros y gatos. De los perros se guarda un código único, un
 nombre, una fecha de nacimiento y si se lleva bien o no con otros perros. De los
 gatos se guarda un código único, un nombre, una fecha de nacimiento y si tiene o no
-el virus de la leucemia felina (para no mezclarlos con los que no lo tienen).
+el virus de la leucemia felina (para no mezclarlos con los que no lo tienen).</br>
 ● Una persona puede adoptar sólo a un animal: perro o gato. De la persona se
-guardan los siguientes datos: nombre, apellidos, dni y teléfono.
+guardan los siguientes datos: nombre, apellidos, dni y teléfono.</br>
 ● Cuando se produce la adopción es necesario almacenar un código único de la
-adopción, una fecha de adopción, el animal que adopta y la persona que lo adopta.
+adopción, una fecha de adopción, el animal que adopta y la persona que lo adopta.</br>
 Se pide:
 1. Desarrollar el diagrama de clases.
 2. Implementar las clases en Java.
